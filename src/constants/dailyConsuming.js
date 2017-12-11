@@ -1,0 +1,2 @@
+export const SET_CONSUMED_ITEM = 'SET_CONSUMED_ITEM'
+export const SET_SALE_REPORT = 'SET_SALE_REPORT'

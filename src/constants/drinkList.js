@@ -1,0 +1,2 @@
+export const SET_DRINK_LIST = 'SET_DRINK_LIST'
+export const REMOVE_DRINK_LIST = 'REMOVE_DRINK_LIST'

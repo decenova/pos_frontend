@@ -1,0 +1,2 @@
+export const SET_TABLE_LIST = 'SET_TABLE_LIST'
+export const REMOVE_TABLE_LIST = 'REMOVE_TABLE_LIST'
