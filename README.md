@@ -1,4 +1,5 @@
 ## Preconditions
+* have api running (download at https://github.com/tomhieu/pos)
 * have node v8.2.1 installed on the machine
 
 ## Install
